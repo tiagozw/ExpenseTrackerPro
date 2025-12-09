@@ -1,6 +1,6 @@
 # 💸 Expense Tracker Pro
 
-A clean and modern desktop app to track daily spending, analyze habits, and visualize expenses — built with Python and CustomTkinter.
+A clean and modern desktop app to track daily spending, analyze habits, and visualize expenses — built with Python and CustomTkinter. This was my first ever project!
 
 ---
 
