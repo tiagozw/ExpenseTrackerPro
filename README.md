@@ -10,6 +10,12 @@ A clean and modern desktop app to track daily spending, analyze habits, and visu
 
 ---
 
+## 🖼 Preview
+
+![App Screenshot](./screenshot.jpg)
+
+---
+
 ## 🚀 Features
 
 - Add, edit, and delete expenses  
