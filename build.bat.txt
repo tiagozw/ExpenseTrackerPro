@@ -1,0 +1,8 @@
+@echo off
+echo Building Expense Tracker Pro...
+pyinstaller --noconfirm --windowed --icon=icon.ico expense_tracker_gui.py
+
+echo.
+echo --- Build Complete ---
+echo Output in /dist folder
+pause

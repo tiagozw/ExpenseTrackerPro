@@ -1,0 +1,49 @@
+Expense Tracker Pro — v1.0.0
+Developed by: Tiago F.
+Release Date: 2025
+
+---
+
+✨ Overview
+Expense Tracker Pro is a modern AI-assisted personal finance application built in Python. 
+It allows users to easily track spending, analyze patterns, and view visual insights through interactive dashboards and charts.
+
+---
+
+🧰 Core Features
+
+• Add, edit, and delete expenses
+• AI-powered category suggestions
+• Search + filters (date, category, text)
+• Charts: pie, bar, and timeline trends
+• Dashboard analytics with insights
+• Built-in settings menu
+• Currency customization
+• Local JSON data storage
+• Dark mode interface
+
+---
+
+📦 Included in This Release
+
+• Stand-alone portable EXE
+• Full Windows Installer (Setup EXE)
+• App icon and branding
+• About panel with credits
+
+---
+
+🔮 Planned Features
+
+• Monthly budget warnings
+• Multi-profile support
+• Cloud sync & exporting
+• Automatic recurring expenses
+
+---
+
+🧑‍💻 Credits
+
+Software developed by: **Tiago F.**
+Design direction and UX improvements assisted by iterative AI collaboration.
+

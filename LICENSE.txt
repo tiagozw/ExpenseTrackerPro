@@ -1,0 +1,20 @@
+Personal Use License  
+Version 1.0 — 2025  
+
+Copyright (c) 2025 Tiago F.
+
+This software, Expense Tracker Pro, is provided for personal and non-commercial use only.  
+
+Permission is granted to download, install, and use the software for personal record-keeping, education, or evaluation.
+
+You may not:
+
+• Sell, license, or redistribute this software
+• Modify or reverse-engineer the compiled application
+• Use the software or code for commercial services or products
+• Package, brand, or claim authorship
+
+Commercial licensing, redistribution rights, or custom feature development may be requested by contacting the developer.
+
+THIS SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND.  
+THE AUTHOR IS NOT LIABLE FOR ANY CLAIMS, DAMAGES, OR LOSSES ARISING FROM USE.
