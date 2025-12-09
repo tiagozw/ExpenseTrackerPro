@@ -1,4 +1,10 @@
 # 💸 Expense Tracker Pro
+[⬇️ Download Latest Release](https://github.com/Tiagozw/ExpenseTrackerPro/releases/latest)
+
+![Version](https://img.shields.io/github/v/release/Tiagozw/ExpenseTrackerPro)
+![Downloads](https://img.shields.io/github/downloads/Tiagozw/ExpenseTrackerPro/total)
+![License](https://img.shields.io/github/license/Tiagozw/ExpenseTrackerPro)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 A clean and modern desktop app to track daily spending, analyze habits, and visualize expenses — built with Python and CustomTkinter. This was my first ever project!
 
